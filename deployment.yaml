@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: myapp-v1
-          image: ndumohan/javaweb:latest
+          image: indumohan/javawebcalculator:v1
           ports:
-            - containerPort: 80  # Port 80
+            - containerPort: 8080  # Port 8080
