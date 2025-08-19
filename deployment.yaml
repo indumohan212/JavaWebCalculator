@@ -17,4 +17,4 @@ spec:
         - name: myapp-v1
           image: indumohan/javawebcalculator:v1
           ports:
-            - containerPort: 8080  # Port 8080
+            - containerPort: 80  # Port 80
